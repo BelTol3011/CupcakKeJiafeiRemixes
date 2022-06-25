@@ -24,9 +24,9 @@ One person that has created numerous remixes calls himself ranvision. This is th
 <a href='https://www.youtube.com/watch?v=2-sI4kWW8hk' title="Nicki Minaj Starships Jiafei Products Jiafei remix Jiafei Roblox candyJoeyNaky Chinese"><img src="https://img.youtube.com/vi/2-sI4kWW8hk/0.jpg"></a>
 
 ### [Soap - Melanie Martinez](https://youtu.be/k4INC0yk_vo?t=56) x Pon Mi **\[snippet\]**
-https://user-images.githubusercontent.com/37810842/175788084-fa428ea5-9fdf-4848-aa04-f290b3c9703c.mp4
+<audio controls="">
+  <source src="/downloaded_remixes/soap_melanie_martinez_x_pon_mi.mp4" type="audio/mpeg">
+</audio>
 
 ### [Squidward Nose - CupcakKe](https://www.youtube.com/watch?v=8Jo_sAPspIQ) x [Material Girl - Saucy Santana](https://www.youtube.com/watch?v=0en8CjgVl6w) **\[full mashup\]**
-<a href='https://www.youtube.com/watch?v=AsS8mjxJiVE' title="squidward nose x material girl FULL MASHUP"><img src="https://img.youtube.com/vi/AsS8mjxJiVE/0.jpg"></a>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z7PExj_v-ZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AsS8mjxJiVE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
