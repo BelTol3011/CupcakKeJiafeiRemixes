@@ -6,22 +6,20 @@ On [TikTok](https://en.wikipedia.org/wiki/TikTok)<sup>official [Website](https:/
 One person that has created numerous remixes calls himself ranvision. This is their [TikTok](https://www.tiktok.com/@ranvision_official), [YouTube](https://www.youtube.com/channel/UCJctRkdcsQMz7DB0rbZtGhQ) Channel.
 
 ### The "Jiafei Song"
-> **NOTE:** GitHub flavored markdown sadly [doesn't support YouTube embeds](https://github.com/github/markup/issues/538). I have worked around this by making the thumbnails clickable. 
-
-<a href='https://www.youtube.com/watch?v=f63oc8d8mIM&t=28' title="jiafei song lyrics| 野花香 | english translation"><img src="https://img.youtube.com/vi/f63oc8d8mIM/0.jpg"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f63oc8d8mIM&start=28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Pon Mi - Shenseea
-<a href='https://www.youtube.com/watch?v=D1XbDlgTIrI&t=28' title="Shenseea - Pon Mi (Lyrics) Pussy tight pussy clean pussy fresh Pussy pretty pussy fat full a flesh"><img src="https://img.youtube.com/vi/D1XbDlgTIrI/0.jpg"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D1XbDlgTIrI&t=28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Remixes
 ### [Only Love Can Hurt Like This - Paloma Faith](https://www.youtube.com/watch?v=skEXVQ_z9ag) x CupcakKe **\[full mashup\]**
-<a href='https://www.youtube.com/watch?v=KjJybTxoFkI' title="Paloma Faith - Only Love Can Hurt Like This (CupcakKe Remix)"><img src="https://img.youtube.com/vi/KjJybTxoFkI/0.jpg"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KjJybTxoFkI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### [Pity Party - Melanie Martinez](https://youtu.be/jJfYduWvDmI?t=45) x Jiafei x CupkakKe **\[full mashup\]**
-<a href='https://www.youtube.com/watch?v=gVFuJwfzngs' title="Jiafei - 'Pity Party (Product Party)' (ft. cupcaKKe) (Color Coded Chi/Pinyin/Eng Lyrics)"><img src="https://img.youtube.com/vi/gVFuJwfzngs/0.jpg"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gVFuJwfzngs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### [Starships - Nicky Minaj](https://youtu.be/s_x76GztTQE?t=42) x Jiafei **\[snippet\]**
-<a href='https://www.youtube.com/watch?v=2-sI4kWW8hk' title="Nicki Minaj Starships Jiafei Products Jiafei remix Jiafei Roblox candyJoeyNaky Chinese"><img src="https://img.youtube.com/vi/2-sI4kWW8hk/0.jpg"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2-sI4kWW8hk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### [Soap - Melanie Martinez](https://youtu.be/k4INC0yk_vo?t=56) x Pon Mi **\[snippet\]**
 <audio controls="">
