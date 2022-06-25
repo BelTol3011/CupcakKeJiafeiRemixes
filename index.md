@@ -14,18 +14,18 @@ One person that has created numerous remixes calls himself ranvision. This is th
 <a href='https://www.youtube.com/watch?v=D1XbDlgTIrI&t=28' title="Shenseea - Pon Mi (Lyrics) Pussy tight pussy clean pussy fresh Pussy pretty pussy fat full a flesh"><img src="https://img.youtube.com/vi/D1XbDlgTIrI/0.jpg"></a>
 
 ## Remixes
-### [Only Love Can Hurt Like This - Paloma Faith](https://www.youtube.com/watch?v=skEXVQ_z9ag) x CupcakKe
+### [Only Love Can Hurt Like This - Paloma Faith](https://www.youtube.com/watch?v=skEXVQ_z9ag) x CupcakKe **\[full mashup\]**
 <a href='https://www.youtube.com/watch?v=KjJybTxoFkI' title="Paloma Faith - Only Love Can Hurt Like This (CupcakKe Remix)"><img src="https://img.youtube.com/vi/KjJybTxoFkI/0.jpg"></a>
 
-### [Pity Party - Melanie Martinez](https://youtu.be/jJfYduWvDmI?t=45) x Jiafei x CupkakKe
+### [Pity Party - Melanie Martinez](https://youtu.be/jJfYduWvDmI?t=45) x Jiafei x CupkakKe **\[full mashup\]**
 <a href='https://www.youtube.com/watch?v=gVFuJwfzngs' title="Jiafei - 'Pity Party (Product Party)' (ft. cupcaKKe) (Color Coded Chi/Pinyin/Eng Lyrics)"><img src="https://img.youtube.com/vi/gVFuJwfzngs/0.jpg"></a>
 
-### [Starships - Nicky Minaj](https://youtu.be/s_x76GztTQE?t=42) x Jiafei
+### [Starships - Nicky Minaj](https://youtu.be/s_x76GztTQE?t=42) x Jiafei **\[snippet\]**
 <a href='https://www.youtube.com/watch?v=2-sI4kWW8hk' title="Nicki Minaj Starships Jiafei Products Jiafei remix Jiafei Roblox candyJoeyNaky Chinese"><img src="https://img.youtube.com/vi/2-sI4kWW8hk/0.jpg"></a>
 
-### [Soap - Melanie Martinez](https://youtu.be/k4INC0yk_vo?t=56) x Pon Mi
+### [Soap - Melanie Martinez](https://youtu.be/k4INC0yk_vo?t=56) x Pon Mi **\[snippet\]**
 https://user-images.githubusercontent.com/37810842/175788084-fa428ea5-9fdf-4848-aa04-f290b3c9703c.mp4
 
-
-
+### [Squidward Nose - CupcakKe](https://www.youtube.com/watch?v=8Jo_sAPspIQ) x [Material Girl - Saucy Santana](https://www.youtube.com/watch?v=0en8CjgVl6w) **\[full mashup\]**
+<a href='https://www.youtube.com/watch?v=AsS8mjxJiVE' title="squidward nose x material girl FULL MASHUP"><img src="https://img.youtube.com/vi/AsS8mjxJiVE/0.jpg"></a>
 
