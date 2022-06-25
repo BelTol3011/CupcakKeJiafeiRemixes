@@ -18,10 +18,10 @@ One person that has created numerous remixes calls himself ranvision. This is th
 ### [Pity Party - Melanie Martinez](https://youtu.be/jJfYduWvDmI?t=45) x Jiafei x CupkakKe **\[full mashup\]**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gVFuJwfzngs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### [Starships - Nicky Minaj](https://youtu.be/s_x76GztTQE?t=42) x Jiafei **\[snippet\]**
+### [Starships - Nicky Minaj](https://youtu.be/s_x76GztTQE?t=42) x Jiafei
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2-sI4kWW8hk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### [Soap - Melanie Martinez](https://youtu.be/k4INC0yk_vo?t=56) x Pon Mi **\[snippet\]**
+### [Soap - Melanie Martinez](https://youtu.be/k4INC0yk_vo?t=56) x Pon Mi
 <audio controls="">
   <source src="/CupcakKeJiafeiRemixes/downloaded_remixes/soap_melanie_martinez_x_pon_mi.mp4" type="audio/mpeg">
 </audio>
