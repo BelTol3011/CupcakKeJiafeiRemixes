@@ -6,7 +6,7 @@ On [TikTok](https://en.wikipedia.org/wiki/TikTok)<sup>official [Website](https:/
 ### The "Jiafei Song"
 > **NOTE:** GitHub flavored markdown sadly [doesn't support YouTube embeds](https://github.com/github/markup/issues/538). I have worked around this by making the thumbnails clickable. 
 
-[ ![jiafei song lyrics| 野花香 | english translation](https://img.youtube.com/vi/f63oc8d8mIM/0.jpg)](https://www.youtube.com/watch?v=f63oc8d8mIM&t=28 "Click to play: jiafei song lyrics| 野花香 | english translation")
+<a href='https://www.youtube.com/watch?v=f63oc8d8mIM&t=28'>![jiafei song lyrics| 野花香 | english translation](https://img.youtube.com/vi/f63oc8d8mIM/0.jpg)</a>
 
 ## Remixes
 
