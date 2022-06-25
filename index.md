@@ -12,9 +12,12 @@ One person that has created numerous remixes calls himself ranvision. This is th
 
 ## Remixes
 ### [Only Love Can Hurt Like This - Paloma Faith](https://www.youtube.com/watch?v=skEXVQ_z9ag) x CupcakKe
-
 <a href='https://www.youtube.com/watch?v=KjJybTxoFkI' title="Paloma Faith - Only Love Can Hurt Like This (CupcakKe Remix)"><img src="https://img.youtube.com/vi/KjJybTxoFkI/0.jpg"></a>
 
-### Pity Party - Melanie Martinez x Jiafei x CupkakKe
-<a href='https://www.youtube.com/watch?v=gVFuJwfzngs' title="
-Jiafei - 'Pity Party (Product Party)' (ft. cupcaKKe) (Color Coded Chi/Pinyin/Eng Lyrics)"><img src="https://img.youtube.com/vi/gVFuJwfzngs/0.jpg"></a>
+### [Pity Party - Melanie Martinez](https://youtu.be/jJfYduWvDmI?t=45) x Jiafei x CupkakKe
+<a href='https://www.youtube.com/watch?v=gVFuJwfzngs' title="Jiafei - 'Pity Party (Product Party)' (ft. cupcaKKe) (Color Coded Chi/Pinyin/Eng Lyrics)"><img src="https://img.youtube.com/vi/gVFuJwfzngs/0.jpg"></a>
+
+### [Starships - Nicky Minaj](https://youtu.be/s_x76GztTQE?t=42) x Jiafei
+<a href='https://www.youtube.com/watch?v=2-sI4kWW8hk' title="Nicki Minaj Starships Jiafei Products Jiafei remix Jiafei Roblox candyJoeyNaky Chinese"><img src="https://img.youtube.com/vi/2-sI4kWW8hk/0.jpg"></a>
+
+
