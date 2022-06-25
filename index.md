@@ -6,10 +6,10 @@ On [TikTok](https://en.wikipedia.org/wiki/TikTok)<sup>official [Website](https:/
 One person that has created numerous remixes calls himself ranvision. This is their [TikTok](https://www.tiktok.com/@ranvision_official), [YouTube](https://www.youtube.com/channel/UCJctRkdcsQMz7DB0rbZtGhQ) Channel.
 
 ### The "Jiafei Song"
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f63oc8d8mIM&start=28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f63oc8d8mIM?start=28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Pon Mi - Shenseea
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D1XbDlgTIrI&t=28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D1XbDlgTIrI?start=9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Remixes
 ### [Only Love Can Hurt Like This - Paloma Faith](https://www.youtube.com/watch?v=skEXVQ_z9ag) x CupcakKe **\[full mashup\]**
