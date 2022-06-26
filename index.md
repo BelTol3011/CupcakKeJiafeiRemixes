@@ -15,7 +15,7 @@ One person that has created numerous remixes calls himself ranvision. This is th
 ### [Only Love Can Hurt Like This - Paloma Faith](https://www.youtube.com/watch?v=skEXVQ_z9ag) x CupcakKe **\[full mashup\]**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KjJybTxoFkI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### [Pity Party - Melanie Martinez](https://youtu.be/jJfYduWvDmI?t=45) x Jiafei x CupkakKe **\[full mashup\]**
+### [Pity Party - Melanie Martinez](https://youtu.be/jJfYduWvDmI?t=45) x Jiafei x CupcakKe **\[full mashup\]**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gVFuJwfzngs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### [Starships - Nicky Minaj](https://youtu.be/s_x76GztTQE?t=42) x Jiafei
